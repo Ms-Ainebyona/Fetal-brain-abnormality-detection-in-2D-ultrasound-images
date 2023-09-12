@@ -1,1 +1,2 @@
-# Fetal-brain-abnormality-detection-in-2D-ultrasound-images
+# Fetal-brain-abnormality-detection
+A project I am currently working on. I will soon share details on this repo.
